@@ -1,0 +1,72 @@
+/* CSS Area */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  line-height: 24px;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.8)),
+    url('https://live.staticflickr.com/5800/19961746314_39eb73b409_k.jpg') no-repeat center fixed;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  margin: 5%;
+}
+
+em {
+  padding-left: 6%;
+  font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;
+  font-size: 30px;
+}
+
+li {
+  list-style-type: decimal;
+}
+
+/* For ID, For Class */
+.imgRamen,
+#vdRamen,
+#adRamen {
+  text-align: center;
+}
+
+#vdRamen {
+  transform: scale(1.5, 1.5);
+  margin: 7%;
+}
+
+#content li,
+#content p,
+#content ul {
+  font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+}
+
+#content #paragraph {
+  width: 85%;
+  padding-left: 80px;
+}
+
+#typeRamen {
+  color: rgba(41, 92, 229, 0.783);
+}
+
+#noHighLight {
+  color: rgba(255, 0, 60, 0.878);
+}
+
+#footer {
+  width: 40%;
+  margin: 3% auto;
+  text-align: center;
+}
+
+#footer a {
+  padding-left: 50px;
+  padding-right: 50px;
+}
