@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Japanese Ramen Website
 
 ## Overview
@@ -28,6 +27,3 @@ This project is a customized website designed to introduce and explore the rich 
 
 ## Conclusion
 This project effectively showcases the use of HTML and CSS to create an informative and engaging website about Japanese ramen. It highlights the integration of multimedia elements and bilingual content to provide a comprehensive resource on the topic.
-=======
-# Japanese_Ramen_Website
->>>>>>> c3cee99e764d511532d7018986781098f9aa5d08
